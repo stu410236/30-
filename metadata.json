@@ -1,0 +1,6 @@
+{
+  "name": "2048",
+  "description": "經典的 2048 益智滑動方塊遊戲，具備流暢動畫與滑動手勢支援。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
